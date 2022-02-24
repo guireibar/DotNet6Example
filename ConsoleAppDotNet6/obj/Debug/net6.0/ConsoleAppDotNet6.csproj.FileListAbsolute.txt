@@ -1,0 +1,15 @@
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\ConsoleAppDotNet6.exe
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\ConsoleAppDotNet6.deps.json
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\ConsoleAppDotNet6.runtimeconfig.json
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\ConsoleAppDotNet6.dll
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\ref\ConsoleAppDotNet6.dll
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\ConsoleAppDotNet6.pdb
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.csproj.AssemblyReference.cache
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.AssemblyInfoInputs.cache
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.AssemblyInfo.cs
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.csproj.CoreCompileInputs.cache
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.dll
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\ref\ConsoleAppDotNet6.dll
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.pdb
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.genruntimeconfig.cache
