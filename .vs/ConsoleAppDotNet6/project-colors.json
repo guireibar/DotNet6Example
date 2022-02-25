@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b65ea2e-0b92-405f-bef2-b1960cdf6478": {
+      "ProjectGuid": "0b65ea2e-0b92-405f-bef2-b1960cdf6478",
+      "DisplayName": "ConsoleAppDotNet6",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
