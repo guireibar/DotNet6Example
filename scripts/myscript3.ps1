@@ -1,4 +1,3 @@
-
 $alert = { "Hello World" }
 & $alert
 echo $alert
