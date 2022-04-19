@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gbarb\\OneDrive\\Documentos\\TeamCity Work\\TC Cloud\\DotNet6Example\\ConsoleAppDotNet6\\ConsoleAppDotNet6.csproj",
-      "projectName": "ConsoleAppDotNet6",
-      "projectPath": "C:\\Users\\gbarb\\OneDrive\\Documentos\\TeamCity Work\\TC Cloud\\DotNet6Example\\ConsoleAppDotNet6\\ConsoleAppDotNet6.csproj",
+      "projectUniqueName": "C:\\Users\\gbarb\\OneDrive\\Documentos\\TeamCity Work\\TC Cloud\\DotNet6Example\\ConsoleAppDotNet6\\PrimeService.csproj",
+      "projectName": "PrimeService",
+      "projectPath": "C:\\Users\\gbarb\\OneDrive\\Documentos\\TeamCity Work\\TC Cloud\\DotNet6Example\\ConsoleAppDotNet6\\PrimeService.csproj",
       "packagesPath": "C:\\Users\\gbarb\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gbarb\\OneDrive\\Documentos\\TeamCity Work\\TC Cloud\\DotNet6Example\\ConsoleAppDotNet6\\obj\\",
       "projectStyle": "PackageReference",

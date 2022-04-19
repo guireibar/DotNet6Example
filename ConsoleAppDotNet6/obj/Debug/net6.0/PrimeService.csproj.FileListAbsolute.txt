@@ -1,0 +1,15 @@
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\PrimeService.exe
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\PrimeService.deps.json
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\PrimeService.runtimeconfig.json
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\PrimeService.dll
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\bin\Debug\net6.0\PrimeService.pdb
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\PrimeService.AssemblyInfo.cs
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\PrimeService.dll
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\refint\PrimeService.dll
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\PrimeService.pdb
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\PrimeService.genruntimeconfig.cache
+C:\Users\gbarb\OneDrive\Documentos\TeamCity Work\TC Cloud\DotNet6Example\ConsoleAppDotNet6\obj\Debug\net6.0\ref\PrimeService.dll
